@@ -1,0 +1,6 @@
+project = "your gcp project name"
+region = "your preffered region"
+name = "Enter the cluster name"
+network = "Enter the preffered network preferrably 'default'"
+zone = "Enter the preffered zone"
+node_pool_name = "Enter the name of the node pool yopu want to create"
