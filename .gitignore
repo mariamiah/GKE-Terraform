@@ -1,0 +1,12 @@
+# Private key files
+serviceaccount.json
+creds/*
+
+# Terraform files
+terraform.tfvars
+terraform.tfstate
+terraform.tfstate.backup
+myplan
+.terraform.tfstate.lock
+.terraform.tfstate.lock.info
+.terraform/*
